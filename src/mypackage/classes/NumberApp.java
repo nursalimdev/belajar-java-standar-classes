@@ -15,7 +15,7 @@ public class NumberApp {
         int contohInt = Integer.parseInt(contoh);
         System.out.println(contohInt);
 
-        
+
 
     }
 }
