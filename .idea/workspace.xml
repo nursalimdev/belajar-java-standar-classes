@@ -32,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringJoinerApp">
     <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.classes.StringApp" />
       <module name="belajar-java-standar-classes" />
@@ -46,8 +46,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringJoinerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.classes.StringJoinerApp" />
+      <module name="belajar-java-standar-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringJoinerApp" />
         <item itemvalue="Application.StringApp" />
       </list>
     </recent_temporary>
