@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SystemApp">
-    <configuration name="BigNumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.classes.BigNumberApp" />
+  <component name="RunManager" selected="Application.ObjectsApp">
+    <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.classes.Base64App" />
       <module name="belajar-java-standar-classes" />
       <extension name="coverage">
         <pattern>
@@ -61,21 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.classes.MathApp" />
-      <module name="belajar-java-standar-classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.classes.ScannerApp" />
+    <configuration name="ObjectsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.classes.ObjectsApp" />
       <module name="belajar-java-standar-classes" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UUIDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.classes.UUIDApp" />
+      <module name="belajar-java-standar-classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectsApp" />
+        <item itemvalue="Application.Base64App" />
+        <item itemvalue="Application.UUIDApp" />
         <item itemvalue="Application.SystemApp" />
         <item itemvalue="Application.DateApp" />
-        <item itemvalue="Application.ScannerApp" />
-        <item itemvalue="Application.BigNumberApp" />
-        <item itemvalue="Application.MathApp" />
       </list>
     </recent_temporary>
   </component>
